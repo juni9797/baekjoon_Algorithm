@@ -16,4 +16,3 @@ for i in time_list:
     
     
 print(min_time)
-ß
